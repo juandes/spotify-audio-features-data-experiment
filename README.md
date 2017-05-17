@@ -1,0 +1,3 @@
+# SpotifyBoringnessDataExperiment
+
+Details soon...
