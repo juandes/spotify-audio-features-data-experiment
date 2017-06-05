@@ -11,6 +11,6 @@ This repo contains the scripts used in my latest experiment titled __Is my Spoti
 * [Scikit-learn](http://scikit-learn.org/stable/)
 
 ## Report
-The full explanation and results of the experiment are found at: ...
+The full explanation and results of the experiment are found at [Is my Spotify music boring? A data analysis involving music, data, and machine learning](https://medium.com/towards-data-science/is-my-spotify-music-boring-an-analysis-involving-music-data-and-machine-learning-47550ae931de)
 
 
